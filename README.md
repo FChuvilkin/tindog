@@ -1,2 +1,1 @@
-# tindog
-HTML + CSS + Bootstrap exercise
+TinDog Starting Files
